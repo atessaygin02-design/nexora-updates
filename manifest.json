@@ -1,0 +1,18 @@
+{
+    "app":  "Nexora",
+    "latest":  null,
+    "kill":  {
+                 "all":  false,
+                 "message":  ""
+             },
+    "requireLicense":  false,
+    "offlineGraceDays":  0,
+    "message":  "",
+    "licenses":  {
+
+                 },
+    "activations":  {
+
+                    },
+    "updatedAt":  "2026-11-20T17:26:52.1602227Z"
+}
