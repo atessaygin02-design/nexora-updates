@@ -1,12 +1,12 @@
 {
   "app": "Nexora",
   "latest": {
-    "version": "2.0.3",
-    "url": "app-2.0.3.asar",
-    "sha256": "8e089b5f32c54ad9e4811f8251a09ea4f861cd8cef0a06bcdc1029da56c1b0b7",
+    "version": "2.1.0",
+    "url": "app-2.1.0.asar",
+    "sha256": "993791bcb9753d452a9326087ddd651ee06f2e35ee4af1e8918a5896e078097e",
     "notes": "",
     "mandatory": true,
-    "publishedAt": "2026-11-20T19:21:08.349Z"
+    "publishedAt": "2026-11-20T21:03:41.642Z"
   },
   "kill": {
     "all": false,
@@ -24,5 +24,5 @@
       "revoked": false
     }
   },
-  "updatedAt": "2026-11-20T19:38:32.862Z"
+  "updatedAt": "2026-11-20T21:03:58.156Z"
 }
