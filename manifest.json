@@ -1,18 +1,28 @@
 {
-    "app":  "Nexora",
-    "latest":  null,
-    "kill":  {
-                 "all":  false,
-                 "message":  ""
-             },
-    "requireLicense":  false,
-    "offlineGraceDays":  0,
-    "message":  "",
-    "licenses":  {
-
-                 },
-    "activations":  {
-
-                    },
-    "updatedAt":  "2026-11-20T17:26:52.1602227Z"
+  "app": "Nexora",
+  "latest": {
+    "version": "2.0.1",
+    "url": "app-2.0.1.asar",
+    "sha256": "906be785176565a1236c954df6bc8f86bb488171ab4601fbfdc3413ba7587011",
+    "notes": "",
+    "mandatory": true,
+    "publishedAt": "2026-11-20T18:42:44.722Z"
+  },
+  "kill": {
+    "all": false,
+    "message": ""
+  },
+  "requireLicense": false,
+  "offlineGraceDays": 0,
+  "message": "deneme",
+  "licenses": {},
+  "activations": {
+    "EF7D-15EE-C7B7-5AC3": {
+      "name": "SAYGINLAR",
+      "until": "",
+      "issuedAt": "2026-11-20T18:35:38.764Z",
+      "revoked": true
+    }
+  },
+  "updatedAt": "2026-11-20T18:50:11.091Z"
 }
