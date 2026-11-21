@@ -1,13 +1,13 @@
 {
   "app": "Nexora",
   "latest": {
-    "version": "3.1.0",
-    "url": "app-3.1.0.asar",
-    "sha256": "bedc0e2c0079871c15da69afd0af289949d7e4a4c5d070075b4860d185348e6a",
-    "sig": "QkyohD14l2_3A_FLQMYYuZFTwwiFruvtIiTgl-cb2Z-OpXwwaXPd0Fl9zfTOgdO00hJFTJhkzMJaRczMUdtzBw",
-    "notes": "Sayıcı 3.1: e-Fatura XML ile otomatik alış • İnternetsiz akıllı öneriler • Personel mesai takibi ve maaş hesabı • WhatsApp kataloğu / fiyat listesi • Kararlılık düzeltmeleri",
+    "version": "3.1.1",
+    "url": "app-3.1.1.asar",
+    "sha256": "2db13af59bbe60d9de2dd5af0817203af85c75c2ae1020b5c02670a676d495b2",
+    "sig": "pwf2Qs3wacUrITlqnkIooh-jSUzCJOQQ_GVQJ6jV8Pj5qYiw6bhliJohE1knujeqJmkBvG1XH7x8OdwOoCeqBA",
+    "notes": "Sayıcı 3.1.1: 110 akıllı öneri • Fotoğrafsız katalog ve WhatsApp mesajı olarak fiyat listesi • e-Fatura ekranı iyileştirmeleri",
     "mandatory": false,
-    "publishedAt": "2026-11-21T03:56:28.449Z"
+    "publishedAt": "2026-11-21T11:57:28.069Z"
   },
   "kill": {
     "all": false,
@@ -25,5 +25,5 @@
       "revoked": false
     }
   },
-  "updatedAt": "2026-11-21T03:56:28.461Z"
+  "updatedAt": "2026-11-21T11:57:28.081Z"
 }
