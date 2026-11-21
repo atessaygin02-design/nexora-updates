@@ -1,13 +1,13 @@
 {
   "app": "Nexora",
   "latest": {
-    "version": "3.0.0",
-    "url": "app-3.0.0.asar",
-    "sha256": "f0623501a5459cab474489e9810ce27d59db1aed8c04795f2ded5323488d8e28",
-    "sig": "LqeDPrA1Vhhr7OPkgmwvbiEtvSQTzkiDGTHmq1yOL0zKfO6-K17ueB7eVis0EELNoHHqdFomgEHjyzJ7-aSlDQ",
-    "notes": "Sayıcı 3.0: Kasap, E-Ticaret ve Depo işletme türleri • Muhasebeci paketi (aylık Excel dökümü) • Yapay zekâ asistanı (Gemini) • WhatsApp Business ile toplu mesaj • Güvenlik iyileştirmeleri",
+    "version": "3.1.0",
+    "url": "app-3.1.0.asar",
+    "sha256": "bedc0e2c0079871c15da69afd0af289949d7e4a4c5d070075b4860d185348e6a",
+    "sig": "QkyohD14l2_3A_FLQMYYuZFTwwiFruvtIiTgl-cb2Z-OpXwwaXPd0Fl9zfTOgdO00hJFTJhkzMJaRczMUdtzBw",
+    "notes": "Sayıcı 3.1: e-Fatura XML ile otomatik alış • İnternetsiz akıllı öneriler • Personel mesai takibi ve maaş hesabı • WhatsApp kataloğu / fiyat listesi • Kararlılık düzeltmeleri",
     "mandatory": false,
-    "publishedAt": "2026-11-21T03:28:27.267Z"
+    "publishedAt": "2026-11-21T03:56:28.449Z"
   },
   "kill": {
     "all": false,
@@ -25,5 +25,5 @@
       "revoked": false
     }
   },
-  "updatedAt": "2026-11-21T03:28:27.269Z"
+  "updatedAt": "2026-11-21T03:56:28.461Z"
 }
