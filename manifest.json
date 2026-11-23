@@ -1,13 +1,13 @@
 {
   "app": "Nexora",
   "latest": {
-    "version": "3.1.1",
-    "url": "app-3.1.1.asar",
-    "sha256": "2db13af59bbe60d9de2dd5af0817203af85c75c2ae1020b5c02670a676d495b2",
-    "sig": "pwf2Qs3wacUrITlqnkIooh-jSUzCJOQQ_GVQJ6jV8Pj5qYiw6bhliJohE1knujeqJmkBvG1XH7x8OdwOoCeqBA",
-    "notes": "Sayıcı 3.1.1: 110 akıllı öneri • Fotoğrafsız katalog ve WhatsApp mesajı olarak fiyat listesi • e-Fatura ekranı iyileştirmeleri",
+    "version": "3.3.0",
+    "url": "app-3.3.0.asar",
+    "sha256": "2ce7f3e0912e9356e5cc628fd4d650472c0a56abd2289d7a13e876c2d56bd1c3",
+    "sig": "YJR8yC63n5WVvFiEs5TKaS5cKhSwXSVXFF7cbaNHIl0WdI2HgOhVawP7L8jG1kSvCzVLk7j_kn8Qq8ifTq7mCw",
+    "notes": "Sayıcı 3.3.0: Online sipariş sayfası (komisyonsuz) • Sayıcı Bulut: şifreli yedek, telefondan takip ve çoklu şube • Reçete ve porsiyon maliyeti • Puanla ödeme ve damga kartı • Fire / ikram / eksik sayım onayı • Toptancıya tek tıkla sipariş • Kasiyer, tedarikçi fiyat ve veresiye risk analizi • Muhasebeci portalı • Sade hızlı satış ve masa ekranı",
     "mandatory": false,
-    "publishedAt": "2026-11-21T11:57:28.069Z"
+    "publishedAt": "2026-11-23T22:12:20.569Z"
   },
   "kill": {
     "all": false,
@@ -25,5 +25,5 @@
       "revoked": false
     }
   },
-  "updatedAt": "2026-11-21T11:57:28.081Z"
+  "updatedAt": "2026-11-23T22:12:20.584Z"
 }
