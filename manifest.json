@@ -1,13 +1,13 @@
 {
   "app": "Nexora",
   "latest": {
-    "version": "3.4.1",
-    "url": "app-3.4.1.asar",
-    "sha256": "0db4b81364601404808742c0e3389caa66782d282835912a36430f168231f3a1",
-    "sig": "g-TuE7w7MsPspsvkDoH1RzNVPttiz8X1NeU2SOkXkt3vt9Khar4YC_nFgmA6Zc5vGeLCTfFx5ydzdjW6tzbOBw",
-    "notes": "Sayıcı 3.4.1: Pazaryeri / Dropship sekmesi artık yalnızca Dropshipping işletme türünde görünür; diğer türlerde menü sadeleşti.",
+    "version": "3.4.2",
+    "url": "app-3.4.2.asar",
+    "sha256": "466209b3daecd5acc72f890f5abacbcb585e55bf6e590b4382108b1b3346caf5",
+    "sig": "ut6-tWo8cQOH6yKH6fL8XVIIEvIWbPIzN8UiW4dPuVltn7gZ8vQhtIdSbcxEv36ZC22v_Ah38uXONw-mBKcSDQ",
+    "notes": "Sayıcı 3.4.2: Telefondan hızlı satış ve veresiye tahsilatı (aynı Wi-Fi, /m) • Satışta türe özel bilgi sorusu varsayılan kapalı (Ayarlar’dan açılabilir) • Kurulum sihirbazı sadeleşti; örnek ürün yükleme isteğe bağlı",
     "mandatory": false,
-    "publishedAt": "2026-11-24T14:52:31.222Z"
+    "publishedAt": "2026-11-24T20:25:25.948Z"
   },
   "kill": {
     "all": false,
@@ -25,5 +25,5 @@
       "revoked": false
     }
   },
-  "updatedAt": "2026-11-24T14:52:31.236Z"
+  "updatedAt": "2026-11-24T20:25:25.949Z"
 }
