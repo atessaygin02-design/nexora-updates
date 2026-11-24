@@ -1,13 +1,13 @@
 {
   "app": "Nexora",
   "latest": {
-    "version": "3.4.0",
-    "url": "app-3.4.0.asar",
-    "sha256": "8133fd4a74c72890c2b670dcbf593a34900781a07c6228aeef231bb2e442bcc2",
-    "sig": "ZEyO54YaFxgaU5yGq318iGKhBjVcXeUXrw-24q1RChgfn3rTWNkU22j9MGvw5jZs66fLU60YjyJG-F3AM-DpCw",
-    "notes": "Sayıcı 3.4.0: Görevler ve hatırlatıcılar • Pazaryeri / dropshipping sipariş takibi (komisyon, net kâr, tedarikçiye ilet) • Fiyat teklifi hazırla, satışa aktar • Ctrl+K ile her şeyi bul • Her ekranda ❔ rehber videosu • Yenilenen 7 adımlı kurulum sihirbazı • 8 yeni işletme türü (dropshipping, sosyal medya satıcısı, kırtasiye, çiçekçi, fırın, yedek parça, telefon tamiri, kooperatif)",
+    "version": "3.4.1",
+    "url": "app-3.4.1.asar",
+    "sha256": "0db4b81364601404808742c0e3389caa66782d282835912a36430f168231f3a1",
+    "sig": "g-TuE7w7MsPspsvkDoH1RzNVPttiz8X1NeU2SOkXkt3vt9Khar4YC_nFgmA6Zc5vGeLCTfFx5ydzdjW6tzbOBw",
+    "notes": "Sayıcı 3.4.1: Pazaryeri / Dropship sekmesi artık yalnızca Dropshipping işletme türünde görünür; diğer türlerde menü sadeleşti.",
     "mandatory": false,
-    "publishedAt": "2026-11-24T14:37:30.472Z"
+    "publishedAt": "2026-11-24T14:52:31.222Z"
   },
   "kill": {
     "all": false,
@@ -25,5 +25,5 @@
       "revoked": false
     }
   },
-  "updatedAt": "2026-11-24T14:37:30.486Z"
+  "updatedAt": "2026-11-24T14:52:31.236Z"
 }
