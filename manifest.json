@@ -1,13 +1,13 @@
 {
   "app": "Nexora",
   "latest": {
-    "version": "3.4.3",
-    "url": "app-3.4.3.asar",
-    "sha256": "3234b02072ab4ea694725d7f2884c149f8de671b7ac24377b2cd542cf26eea8b",
-    "sig": "hV5_QQTHGLJ-f9o58z5IRapE2bFN9P-CyLwUaRgUGT2ZLYPGKe-RwcHGSgsR8d9kQJpMMB1KnYx-1L3fxidKDw",
-    "notes": "Sayıcı 3.4.3: Mobilyacı ürün kartında bilgiler tek bölümde • Ürün kartlarında tekrar eden alanlar temizlendi (market, eczane, AVM, toptan ve diğer türler) • Telefon ekranı açıklamaları güncellendi",
+    "version": "3.4.4",
+    "url": "app-3.4.4.asar",
+    "sha256": "f640cc76724def7bc7973d2383bae39b8c69dd76cb98c39d61590e58a432f4b1",
+    "sig": "6DIGC6-5J4vFnO_O2ENnxm4VLpSvbyjS5bmIApJxH9TIFyfetZl-NrfdosTQctNCvneP-G1Kl5dDHQt3FFzvBQ",
+    "notes": "Sayıcı 3.4.4: Şubeler ekranında Buluttaki Dükkânlar: Sayıcı Bulut ile bağlı her dükkânın bugünkü/aylık cirosu, kârı, kasası, veresiyesi ve kritik stokları tek ekranda",
     "mandatory": false,
-    "publishedAt": "2026-11-24T20:52:06.918Z"
+    "publishedAt": "2026-11-24T21:25:54.817Z"
   },
   "kill": {
     "all": false,
@@ -25,5 +25,5 @@
       "revoked": false
     }
   },
-  "updatedAt": "2026-11-24T20:52:06.937Z"
+  "updatedAt": "2026-11-24T21:25:54.827Z"
 }
