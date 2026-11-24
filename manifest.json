@@ -1,13 +1,13 @@
 {
   "app": "Nexora",
   "latest": {
-    "version": "3.3.0",
-    "url": "app-3.3.0.asar",
-    "sha256": "2ce7f3e0912e9356e5cc628fd4d650472c0a56abd2289d7a13e876c2d56bd1c3",
-    "sig": "YJR8yC63n5WVvFiEs5TKaS5cKhSwXSVXFF7cbaNHIl0WdI2HgOhVawP7L8jG1kSvCzVLk7j_kn8Qq8ifTq7mCw",
-    "notes": "Sayıcı 3.3.0: Online sipariş sayfası (komisyonsuz) • Sayıcı Bulut: şifreli yedek, telefondan takip ve çoklu şube • Reçete ve porsiyon maliyeti • Puanla ödeme ve damga kartı • Fire / ikram / eksik sayım onayı • Toptancıya tek tıkla sipariş • Kasiyer, tedarikçi fiyat ve veresiye risk analizi • Muhasebeci portalı • Sade hızlı satış ve masa ekranı",
+    "version": "3.4.0",
+    "url": "app-3.4.0.asar",
+    "sha256": "8133fd4a74c72890c2b670dcbf593a34900781a07c6228aeef231bb2e442bcc2",
+    "sig": "ZEyO54YaFxgaU5yGq318iGKhBjVcXeUXrw-24q1RChgfn3rTWNkU22j9MGvw5jZs66fLU60YjyJG-F3AM-DpCw",
+    "notes": "Sayıcı 3.4.0: Görevler ve hatırlatıcılar • Pazaryeri / dropshipping sipariş takibi (komisyon, net kâr, tedarikçiye ilet) • Fiyat teklifi hazırla, satışa aktar • Ctrl+K ile her şeyi bul • Her ekranda ❔ rehber videosu • Yenilenen 7 adımlı kurulum sihirbazı • 8 yeni işletme türü (dropshipping, sosyal medya satıcısı, kırtasiye, çiçekçi, fırın, yedek parça, telefon tamiri, kooperatif)",
     "mandatory": false,
-    "publishedAt": "2026-11-23T22:12:20.569Z"
+    "publishedAt": "2026-11-24T14:37:30.472Z"
   },
   "kill": {
     "all": false,
@@ -25,5 +25,5 @@
       "revoked": false
     }
   },
-  "updatedAt": "2026-11-23T22:12:20.584Z"
+  "updatedAt": "2026-11-24T14:37:30.486Z"
 }
